@@ -114,7 +114,7 @@ header .container a{
 
   /* Banner */
   .banner{
-    background-image: url("../Image/banner.jpg");
+    background-image: url("../Logo/image.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
